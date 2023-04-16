@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sonu-Shettiyar.Sonu-Shettiyar&left_color=darkslategray&left_text=Visitors : "  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sonu-Shettiyar.Sonu-Shettiyar&left_color=darkslategray&left_text=Visitors"  />
 
 ###
 
