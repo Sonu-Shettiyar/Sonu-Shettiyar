@@ -33,7 +33,7 @@
 
 ###
 
-<h4 align="left">I'm Sonu Shettiyar from Chandrapur, Maharashtra.<br><br>- 📚 I'm currently learning Redux <br>- ⚡ In my free time I use to create new things and update my projects with new features and UI design</h4>
+<h4 align="left">I'm Sonu Shettiyar from Chandrapur, Maharashtra.<br><br>- 📚 I'm currently learning Redux & TypeScript<br>- ⚡ In my free time I use to create new things and update my projects with new features and UI design</h4>
 
 ###
 
