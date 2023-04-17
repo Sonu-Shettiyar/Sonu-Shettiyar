@@ -32,16 +32,17 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
-###
+<!-- ### -->
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<h2 align="center">I am Sonu Shettiyar from Chandrapur, Maharashtra.
+<div>
+<h2 align="left">I am 💪Sonu Shettiyar from Chandrapur, Maharashtra.
   </h2>
  
   <br>
+  
 🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
@@ -51,13 +52,14 @@
 <a href="https://github.com/Sonu-Shettiyar">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, Node.js<br><br>
  ⚡ How to reach me <a href="sonushettiyar9393@gmail.com">sonushettiyar9393@gmail.com</a>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+</div>
 ###
 
+
+
+###
 <h3 align="left">🛠 Languages and tools</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
