@@ -29,7 +29,7 @@
 
 <h1 align="center">Welcome to My Profile 👋</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Sonu+Shettiyar.;A+Full-stack+Web+developer.;Who+Love's+to+code.;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Sonu+Krishnamurti+Shettiyar....;A+Full-Stack+Web+developer....;Who+Love's+to+code....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
