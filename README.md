@@ -96,18 +96,19 @@
 
 ###
 
-<div align="center">
+<div align="left">
 
- <br>
- <p align="center">
-  <img width=800 alig src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
- <br>
+ 
 </div>
 
 ###
 
 <div align="center">
+  <br>
+ <p align="center">
+  <img width=800 alig src="https://github-profile-trophy.vercel.app/?username=Sonu-Shettiyar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+ <br>
   <img src="https://profile-counter.glitch.me/Sonu-Shettiyar/count.svg?"  />
 </div>
 
