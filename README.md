@@ -80,7 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
 </div>
 
-###
+
+
 
 <h3 align="left">🔥   My Stats </h3>
 
@@ -95,7 +96,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
+
+ <br>
+ <p align="center">
+  <img width=800 alig src="https://github-profile-trophy.vercel.app/?username=lovkumar120169&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+ <br>
 </div>
 
 ###
