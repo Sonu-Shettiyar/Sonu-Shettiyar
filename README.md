@@ -89,8 +89,7 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonu-Shettiyar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
- <br>
-  <br>
+
   <img src="https://streak-stats.demolab.com?user=Sonu-Shettiyar&locale=en&mode=weekly&theme=monokai&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
