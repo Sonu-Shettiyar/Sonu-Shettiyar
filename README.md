@@ -42,13 +42,13 @@
 <h2 align="left">I am 💪Sonu Shettiyar from Chandrapur, Maharashtra.
   </h2>
  
-  <br>
+  <be>
   
-🔭 I’m currently preparing for placements!. <br><br>
+<!-- 🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
- <!-- 👯 I’m looking to collaborate on ...<br><br> -->
+ 👯 I’m looking to collaborate on ...<br><br> 
  🤔 Check Out my <a href="https://drive.google.com/file/d/1dWHHUH6uZrnvy2odtlG4mPY6iEu-XvMX/view?usp=sharing">Resume</a><br><br>
- 📫  Know more about me <a href="https://sonu-shettiyar.github.io/">Portfolio</a><br><br>
+ 📫  Know more about me <a href="https://sonu-shettiyar.github.io/">Portfolio</a><br><br>-->
  😄 All of my projects are available at
 <a href="https://github.com/Sonu-Shettiyar">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, Node.js<br><br>
