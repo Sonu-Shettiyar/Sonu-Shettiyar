@@ -50,17 +50,17 @@
  👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1vpXa8IldgIQ26mq-KLCKid2UkrxTWNk3/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://sonu-shettiyar.github.io/">Portfolio</a><br><br>
+ ⚡ How to reach me <a href="sonushettiyar9393@gmail.com">sonushettiyar9393@gmail.com</a><br/><br/>
  😄 All of my projects are available at
 <a href="https://github.com/Sonu-Shettiyar">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, Node.js<br><br>
- ⚡ How to reach me <a href="sonushettiyar9393@gmail.com">sonushettiyar9393@gmail.com</a>
+ 💬 Ask me about React, Express, MongoDB, Vue3, TypeScript, Node, HTML, CSS, JavaScript, Redux And More Related to Web Development <br><br>
+ 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
-###
 
 
 
-###
+
 <h3 align="left">🛠 Languages and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -115,9 +115,9 @@
 ###
 <div align="center">
 <!--   <a href="https://1999azzar.github.io/1999AZZAR/"> -->
-   <a href="https://Sonu-Shettiyar.github.io">
+<!--    <a href="https://Sonu-Shettiyar.github.io">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="snake" /></a> -->
 </div>
 <!-- <img src="https://raw.githubusercontent.com/Sonu-Shettiyar/Sonu-Shettiyar/blob/output/snake.svg" alt="Snake animation" /> -->
 
