@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonu-Shettiyar&layout=compact&theme=react&card_width=320" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=Sonu-Shettiyar&theme=monokai" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=Sonu-Shettiyar" height="150" />
 </div>
 
 ---
