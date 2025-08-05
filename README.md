@@ -77,9 +77,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sonu-Shettiyar&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sonu-Shettiyar/count.svg" />
-</p>
+  
