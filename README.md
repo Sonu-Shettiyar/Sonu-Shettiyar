@@ -48,7 +48,7 @@
 <!-- 🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1vpXa8IldgIQ26mq-KLCKid2UkrxTWNk3/view?usp=sharing">Resume</a><br><br>
+ 🤔 Check Out my <a href="https://www.self.so/sonu-shettiyar-resume">Resume</a><br><br>
  📫  Know more about me <a href="https://sonu-shettiyar.github.io/">Portfolio</a><br><br>
  ⚡ How to reach me <a href="sonushettiyar9393@gmail.com">sonushettiyar9393@gmail.com</a><br/><br/>
  😄 All of my projects are available at
