@@ -53,7 +53,7 @@
  ⚡ How to reach me <a href="sonushettiyar9393@gmail.com">sonushettiyar9393@gmail.com</a><br/><br/>
  😄 All of my projects are available at
 <a href="https://github.com/Sonu-Shettiyar">My Github Repositories</a><br><br>
- 💬 Ask me about React, Express, MongoDB, Vue3, TypeScript, Node, HTML, CSS, JavaScript, Redux And More Related to Web Development <br><br>
+ 💬 Ask me about React, Nextjs, PostgreSQl, Shopify, Google Cloud, Express, MongoDB, Vue3, TypeScript, Node, HTML, CSS, JavaScript, Redux, Libraries And More Related to Web Development <br><br>
  
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
