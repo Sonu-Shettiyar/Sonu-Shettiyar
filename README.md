@@ -106,7 +106,7 @@
 <div align="center">
   <br>
  <p align="center">
-  <img width=800 alig src="https://github-profile-trophy.vercel.app/?username=Sonu-Shettiyar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img width='800' alig src="https://github-profile-trophy.vercel.app/?username=Sonu-Shettiyar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
  <br>
   <img src="https://profile-counter.glitch.me/Sonu-Shettiyar/count.svg?"  />
@@ -122,17 +122,3 @@
 <!-- <img src="https://raw.githubusercontent.com/Sonu-Shettiyar/Sonu-Shettiyar/blob/output/snake.svg" alt="Snake animation" /> -->
 
 ###
-<!--
-**Sonu-Shettiyar/Sonu-Shettiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
